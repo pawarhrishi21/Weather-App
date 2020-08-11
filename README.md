@@ -2,8 +2,6 @@
 
 Find out the live weather data in the current location of the device as well as the weather for any other city.
 
-
-
 Weather app inspired by the beautiful designs made by Olia Gozha.
 
 ## Knowledge and skills gained as a developer -
@@ -19,4 +17,4 @@ Weather app inspired by the beautiful designs made by Olia Gozha.
 
 # Preview
 
-![Finished App]()
+![Finished App](https://github.com/pawarhrishi21/Weather-app-flutter-hp21/blob/master/Weather-App-Demo.gif)
