@@ -1,3 +1,5 @@
+// All constants used in the project are in this file
+
 import 'package:flutter/material.dart';
 
 const kTempTextStyle = TextStyle(
